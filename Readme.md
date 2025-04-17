@@ -76,7 +76,7 @@ snake/
 
 ## Output
 
-[Game](./misc/game.gif)
+![Game GIF](./misc/game.gif)
 
 ## Notes
 - Ensure `SDL2_ttf` and `SDL2_image` are linked properly in your `CMakeLists.txt`.
