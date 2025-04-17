@@ -48,7 +48,7 @@ These files are linked into the game using SDL_RWFromMem.
 
 ## Running the Game
 ```bash
-./SnakeGame
+./CnakeGame
 ```
 
 Use arrow keys to control the snake.
